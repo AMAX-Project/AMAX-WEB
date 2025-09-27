@@ -2,7 +2,7 @@
 // export const server_uri = 'wss://ws-api.oneme.ru/websocket';
 // Custom host
 export const server_uri = 'ws://127.0.0.1:1488/websocket';
-export const auth_title = 'MAX';
+export const auth_title = 'AMAX';
 export const auth_custom_text = 'OnlinePhone Link';
 export const auth_custom_link = 'https://t.me/OnlinePhoneSIM_Bot';
 export const auth_bottom_text = 'Maked with ❤️ by WallD3v';
