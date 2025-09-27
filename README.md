@@ -13,6 +13,7 @@ This is not the source code, this is a mod for the compiled version.
 - Analytics removed
 - Server set to 127.0.0.1
 
+To change any value, edit config.js file
 
 ## Installation
 
