@@ -12,6 +12,7 @@ This is not the source code, this is a mod for the compiled version.
 - copied completely (without source code)
 - Analytics removed
 - Server set to 127.0.0.1
+- Added the ability to change some text on the login page
 
 To change any value, edit config.js file
 
