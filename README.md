@@ -2,7 +2,7 @@
   <img src="https://web.max.ru/_app/immutable/assets/favicon.SKKGCh52.png" />
 </p>
 
-# Max Web
+# AMax Web
 
 This is not the source code, this is a mod for the compiled version.
 
